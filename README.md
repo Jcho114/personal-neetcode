@@ -7,3 +7,4 @@
 - [ ] Sliding Window (4/6)
 - [ ] Linked List (10/11)
 - [ ] Trees (13/15)
+- [ ] Tries (2/3)
