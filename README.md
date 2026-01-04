@@ -11,3 +11,4 @@
 - [x] Backtracking (10/10)
 - [x] Heap / Priority Queue (7/7)
 - [x] Graphs (13/13)
+- [x] Intervals (6/6)
