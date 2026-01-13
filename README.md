@@ -5,7 +5,7 @@
 - [x] Stack (6/6)
 - [ ] Binary Search (6/7)
 - [ ] Sliding Window (4/6)
-- [ ] Linked List (10/11)
+- [x] Linked List (11/11)
 - [ ] Trees (13/15)
 - [x] Tries (3/3)
 - [x] Backtracking (10/10)
