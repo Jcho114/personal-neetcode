@@ -7,7 +7,7 @@
 - [ ] Sliding Window (4/6)
 - [ ] Linked List (10/11)
 - [ ] Trees (13/15)
-- [ ] Tries (2/3)
+- [x] Tries (3/3)
 - [x] Backtracking (10/10)
 - [x] Heap / Priority Queue (7/7)
 - [x] Graphs (13/13)
